@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**marufms903/marufms903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**m4ruf07/m4ruf07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
